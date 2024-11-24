@@ -21,6 +21,8 @@
 
 - **[Red Hat Academy](https://www.redhat.com/en/blog/red-hat-provides-free-learning-opportunities)**  
   A free academic training program offering instructor training, lab environments, and comprehensive textbooks to develop in-demand skills.
+- **[Linux crash course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)
+  A youtube channel with a lot of information on linux
 
 ## Networking
 
