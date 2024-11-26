@@ -1,6 +1,9 @@
 # Training Resources
 
 ## AWS Solutions Architecture
+- **[AWS 101 workshop](https://catalog.workshops.aws/aws101/en-US)**
+
+  Workshop for AWS Beginnners
 
 - **[AWS Solutions Architect Learning Plan](https://aws.amazon.com/training/learn-about/architect/)**  
   A structured set of free on-demand courses to help build your technical skills in designing resilient, high-performing, secure, and cost-optimized architectures on AWS.
