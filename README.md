@@ -41,3 +41,7 @@
 
 - **[Networking Training Courses](https://training.linuxfoundation.org/networking/)**  
   Free and paid training programs by The Linux Foundation covering various aspects of networking, including Kubernetes and DevOps.
+
+- **[Networking Playlist on youtube](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)**
+
+  A networking playlist 
