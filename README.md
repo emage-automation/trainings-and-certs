@@ -24,6 +24,9 @@
 - **[Linux crash course](https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW)**
   
   A youtube channel with a lot of information on linux.
+- **[Edx Red hat course (Free)](https://www.edx.org/learn/linux/red-hat-fundamentals-of-red-hat-enterprise-linux)**
+
+  A free course on Red Hat 9
 
 ## Networking
 
